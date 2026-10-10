@@ -39,7 +39,7 @@
   "dependencies": {},
   "devDependencies": {
     "@stdlib/assert-is-boolean": "^0.2.3",
-    "@stdlib/console-log-each-map": "^0.1.1",
+    "@stdlib/console-log-each-map": "^0.1.2",
     "@stdlib/constants-float64-ninf": "^0.2.3",
     "@stdlib/constants-float64-pinf": "^0.2.3",
     "@stdlib/random-array-discrete-uniform": "^0.2.2",
